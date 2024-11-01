@@ -1,0 +1,165 @@
+
+.wc-order-export-container label {
+	padding: 10px;
+}
+.order-export-option-select {
+	height: 30px;
+}
+
+.wc-order-export-container table {
+	width: 80%;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #cecece;
+	border-collapse: collapse;
+	float: left;
+}
+
+.wc-order-export-container > div {
+	width: 19%;
+	float: right;
+	margin-top: 5px;
+    background: #fff;
+	border: 1px solid #e5e5e5;
+}
+
+.wc-order-export-container > div h3,
+.wc-order-export-container > div p {
+	padding: 10px 15px;
+}
+
+.wc-order-export-container {
+	padding: 20px;
+}
+
+.update-old-title input {
+	width: 100% !important;
+}
+
+.update-old-title {
+	-webkit-transition: all .5s;
+	  	transition: all .5s;
+}
+
+.wc-order-export-container table td:first-child  {
+	width: 20%;
+	height: 25px;
+	padding: 10px;
+	color: #0073aa;
+	background-color: #fafafa;
+	border: 1px solid #e4e4e4;
+}
+
+.wc-order-export-container table td:last-child {
+	padding: 5px;
+	border: 1px solid #f7f7f7;
+}
+
+.wc-order-export-container table input[type=text] {
+	width: 250px;
+}
+
+.wc-order-export-container button {
+	float: right;
+}
+
+.order-export-option-select label {
+    float: left;
+    width: 240px;
+    display: block;
+    line-height: 5px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+}
+
+.wcordex_checkbox li,
+.wcorx-all-field-meta-key li {
+	width: 180px;
+    display: inline-block;
+    text-transform: capitalize;
+    background-color: #807f7f;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+.wcorx-all-field-meta-key li {
+	margin-left: 15px;
+	width: 80%;
+}
+
+.wcorx-all-field-meta-key {
+	max-height: 400px;
+    overflow-y: scroll;
+}
+
+.dropover {
+	color: #222;
+	background-color: #bbbbbb;
+	transition: all .3s ease-in;
+	-webkit-transition: all .3s ease-in;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .07);
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .07);
+}
+
+.wcordex_checkbox li span {
+	float: right;
+    color: #ff0000;
+    cursor: pointer;
+    font-weight: bold;
+    height: 20px;
+    width: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.wcordex_checkbox li span:hover {
+	background-color: #fff;
+}
+
+
+.wc-order-export-container > div h3 {
+	margin: 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.wcorx-all-field-meta-key li span {
+	display: none;
+}
+
+.is-dragged {
+	opacity: .5;
+	transform: scale(.9);
+	-webkit-transform: scale(.9);
+	transition: opacity .25s ease-out, transform .15s ease-out;
+	-webkit-transition: opacity .25s ease-out, -webkit-transform .15s ease-out;
+}
+
+.update-old-title {
+	margin: 5px -8px -8px -8px;
+    padding: 5px;
+    background-color: #b5b5b5;
+}
+
+.wc-order-export-container h3 {
+	margin: 0;
+    padding: 10px;
+    background-color: #e6e6e6;
+}
+
+.wc-export-selector-container-start {
+	border-top: 2px solid #b9b9b9;
+}
+
+.wc-export-selector-container-end {
+	border-bottom: 2px solid #b9b9b9;
+}
+
+.wc-ord-exp-border {
+	border-left: 2px solid #b9b9b9;
+	border-right: 2px solid #b9b9b9;
+}
